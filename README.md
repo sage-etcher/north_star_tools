@@ -1,6 +1,6 @@
 # NorthStar Tools
 
-Unofficial data-only repo, seperating the north_star_tools sources from the rest of the ADE Sources.
+Unofficial repo, seperating the north_star_tools sources from the rest of the ADE Sources.
 
 See also:
 
